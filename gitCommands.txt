@@ -25,4 +25,5 @@ git push -u origin master
 
 git checkout 7cececa5
 
-
+// get basic commands url
+https://gist.github.com/arttuladhar/5887559

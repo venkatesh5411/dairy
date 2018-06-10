@@ -1,0 +1,28 @@
+
+https://github.com/venkatesh5411/story.git
+
+
+git config --global user.name "uname"
+
+git config --global user.email "email@gmail.com"
+
+git clone https://github.com/venkatesh5411/story.git
+
+>cd story
+
+git status
+
+-----create one file------
+
+git add a.html
+
+git commit -m "Added h1 tag" a.html
+
+git status
+
+git push -u origin master
+
+
+git checkout 7cececa5
+
+

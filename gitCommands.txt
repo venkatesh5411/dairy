@@ -22,6 +22,7 @@ git status
 
 git push -u origin master
 
+git log 
 
 git checkout 7cececa5
 
